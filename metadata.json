@@ -1,0 +1,6 @@
+{
+  "name": "OS Learning Hub – Operating System Simulator",
+  "description": "An interactive, student-friendly platform with animated simulators for CPU Scheduling, Memory Allocation, Banker's Algorithm, Page Replacement, and Process Synchronization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
